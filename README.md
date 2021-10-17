@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Leanna Wisnefske
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning about data science and analytics through the University of Wisconsin-Madison
-- 💞️ I’m looking to collaborate on ...
 - 📫 E-mail: lwisnefske@gmail.com
 
 <!---
